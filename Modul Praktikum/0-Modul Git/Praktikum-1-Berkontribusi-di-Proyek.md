@@ -8,13 +8,13 @@ Setelah praktikum ini dilakukan Anda diharapkan dapat:
 
 ### Persiapan Project
 ---
-Sebelum bisa berkontribusi, terlebih dulu kita siapkan repository baik di remote maupun di lokal. Agar bisa menjalankan langkah-langkah berikut dengan baik, pastikan Anda sudah memiliki akun `Github` dan sudah menginstal aplikasi Git di laptop/PC. Cara-caranya sudah pernah saya jelaskan di [praktikum 0](#).
+Sebelum bisa berkontribusi, terlebih dulu kita siapkan repository baik di remote maupun di lokal. Agar bisa menjalankan langkah-langkah berikut dengan baik, pastikan Anda sudah memiliki akun `Github` dan sudah menginstal aplikasi Git di laptop/PC. Cara-caranya sudah pernah saya jelaskan di [praktikum 0](/Modul%20Praktikum/0-Modul%20Git/Praktikum-0-Git-&-Github.md).
 
 ### Fork Repository
 ---
 `Forking repository` artinya kita mengcopy repository project asal di akun pembuatnya ke akun kita. Ini biasanya dilakukan karena kita tidak punya akses untuk langsung membuat perubahan di repository asal. Jadi kita buat perubahan di akun sendiri untuk kemudian minta `developer pemilik repo pusat` untuk mengambil perubahan yang kita buat.
 
-Pertama, silahkan anda check akun [yysofiyan](https://github.com/yysofiyan?tab=repositories) *(silahkan cari repositori berdasarkan kelas anda)* kemuadian langkah selanjutnya adalah melakukan `fork repository` ke akun kita.
+Pertama, silahkan anda check akun [yysofiyan](https://github.com/FT3109-PABWEB) *(silahkan cari repositori berdasarkan kelas anda)* kemuadian langkah selanjutnya adalah melakukan `fork repository` ke akun kita.
 
 Silahkan buka proyek tersebut, lalu klik tombol **fork**
 
